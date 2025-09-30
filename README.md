@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lewiswrighter&label=Profile%20views&color=0e75b6&style=flat" alt="lewiswrighter" /> </p>
 
-- 🔭 I’m currently working on **a banking app**
+- 🔭 I’m currently working on **an AI integrated study app**
 
 - 🌱 I’m currently learning **IOS development**
 
