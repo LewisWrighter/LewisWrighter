@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a banking app**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **IOS development**
 
 - 📫 How to reach me **lewiswrighter@gmail.com**
 
